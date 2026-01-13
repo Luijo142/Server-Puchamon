@@ -1,9 +1,0 @@
-{
-  "version": "1.0.5",
-  "base_url": "https://nuevo-servidor.com/mods/",
-  "mods": [
-    "fabric-api.jar",
-    "sodium.jar",
-    "lithium.jar"
-  ]
-}
