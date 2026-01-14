@@ -1,7 +1,7 @@
 {
   "version": "1.0.8",
   "minecraft_version": "1.21.1",
-  "pack_url": "https://drive.google.com/uc?export=download&id=15ZW1Q71C_FgMTwSkc4dW5xdgbAXTcpFZ",
+  "pack_url": "https://drive.usercontent.google.com/download?id=15ZW1Q71C_FgMTwSkc4dW5xdgbAXTcpFZ",
   "patch_notes": [
     "➕ Añadidos nuevos mods",
     "🛠 Optimización del servidor",
@@ -10,6 +10,7 @@
   ],
   "server_ip": "135.148.15.187:23692"
 }
+
 
 
 
