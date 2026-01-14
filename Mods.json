@@ -7,17 +7,23 @@
     "➕ Se agrego Jade para mas informacion en pantalla",
     "➕ Ahora Podras Stackear mas items en tu inventario max 99 por stack, se iran añadiendo mas gradualmente",
     "➕ Se mejoro la UI en combate, se ira agregando o quitando en el transcurso",
+    "➕ Se agregaron 11 mil bloques nuevos",
     "🛠 Optimización del servidor",
     "🛠 Algunos bloques seran completamente indestructibles",
     "🛠 Mas bloques para construir",
     "🛠 Mods Comprimidos en zip al descargar, se extraeran solos",
+    "🐛 Se agregaron mas estructuras para legendarios",
     "🐛 Shiny rate actualizado antes: 8192. Ahora 4096",
     "🐛 Ahora se le reduce la Stamina a los Pokemon al bucear y volar, se iran ajustando gradualmente",
     "🐛 Las teraraids llegaron",
-    "Gatos se la come"
+    "Gatos se la come",
+
+    "Errores Conocidos",
+    "-La comida y la vida van a bajar, se arreglara pronto",
   ],
   "server_ip": "135.148.15.187:23692"
 }
+
 
 
 
