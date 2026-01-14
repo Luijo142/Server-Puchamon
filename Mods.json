@@ -6,10 +6,13 @@
     "➕ Añadidos nuevos mods",
     "🛠 Optimización del servidor",
     "🐛 Shiny rate actualizado antes: 8192. Ahora 4096",
+    "🐛 Ahora se le reduce la Stamina a los Pokemon al bucear y volar, se iran ajustando gradualmente",
+    "➕ Ahora Podras Stackear mas items en tu inventario max 99 por stack, se iran añadiendo mas gradualmente",
     "🛠 Mods Comprimidos en zip"
   ],
   "server_ip": "135.148.15.187:23692"
 }
+
 
 
 
