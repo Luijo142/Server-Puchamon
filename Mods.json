@@ -1,19 +1,25 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.10",
   "minecraft_version": "1.21.1",
   "pack_url": "https://github.com/Luijo142/Server-Puchamon/releases/download/v1.0/Mods.zip",
   "patch_notes": [
     "➕ Añadidos nuevos mods",
+    "➕ Se agrego Jade para mas informacion en pantalla",
+    "➕ Ahora Podras Stackear mas items en tu inventario max 99 por stack, se iran añadiendo mas gradualmente",
+    "➕ Se mejoro la UI en combate, se ira agregando o quitando en el transcurso",
     "🛠 Optimización del servidor",
+    "🛠 Algunos bloques seran completamente indestructibles",
+    "🛠 Mas bloques para construir",
+    "🛠 Mods Comprimidos en zip al descargar, se extraeran solos",
     "🐛 Shiny rate actualizado antes: 8192. Ahora 4096",
     "🐛 Ahora se le reduce la Stamina a los Pokemon al bucear y volar, se iran ajustando gradualmente",
-    "➕ Ahora Podras Stackear mas items en tu inventario max 99 por stack, se iran añadiendo mas gradualmente",
-    "🛠 Algunos bloques seran completamente indestructibles",
-    "🛠 Mods Comprimidos en zip al descargar, se extraeran solos",
+    "🐛 Las teraraids llegaron",
+    "🐛 Las teraraids llegaron",
     "Gatos se la come"
   ],
   "server_ip": "135.148.15.187:23692"
 }
+
 
 
 
